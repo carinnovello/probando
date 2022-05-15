@@ -21,11 +21,17 @@ El público consumidor al cual estará dirigido el producto, será una audiencia
 
 :black_nib: https://www.dolcemangiare.com.ar/
 
-# Descrpción de los integrantes:
--Scarpa Daiana: Maestra pastelera, 8 años d experiencia en la realizacion de tortas y tartas tradicionales. 
--Sesto Juan Martin: 
--Thomas Lucas:
--Novello Carina:
+# Descripción de los integrantes:
+
+-:woman_cook: Scarpa, Daiana: Maestra pastelera, su especializacion es  la realizacion de tortas y tartas tradicionales. 
+
+-:man_cook: Sesto, Juan Martin: Maetro pastelero,su especialidad son las tortas temáticas para fiestas de cumpleaños, casamientos, babyshower. 
+
+-:man_cook: Thomas, Lucas: Maestro pastelero, le gusta innovar incorporando sabores exoticos, y creando nuevas especialidades de tortas.
+
+-:woman_cook: Novello, Carina: Maestra Pastelera, su especialidad es la elaboracion de masas finas y bombones.
+                 
+SOMOS ARTISTAS EN LA PASTELERIA :art:
 
 
 
